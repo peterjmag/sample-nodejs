@@ -4,8 +4,6 @@ const port = 3000
 
 import { LoremIpsum } from "lorem-ipsum";
 
-// Test
-
 var lorem = new LoremIpsum({
   sentencesPerParagraph: {
     max: 8,
