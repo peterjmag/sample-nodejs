@@ -2,6 +2,8 @@ const express = require('express')
 const app = express()
 const port = 3000
 
+// Test comment
+
 import { LoremIpsum } from "lorem-ipsum";
 
 var lorem = new LoremIpsum({
