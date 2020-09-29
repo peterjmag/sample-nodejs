@@ -8,7 +8,7 @@ import { LoremIpsum } from "lorem-ipsum";
 
 var lorem = new LoremIpsum({
   sentencesPerParagraph: {
-    max: 19,
+    max: 20,
     min: 2
   },
   wordsPerSentence: {
